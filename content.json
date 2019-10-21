@@ -1,0 +1,105 @@
+{
+    "header":{
+        "title": "Mateusz Matliński",
+        "subtitle": "Desarrollador Full Stack",
+        "desc": "Inscrito en el programa Garantía Juvenil, licenciado en Bellas Artes con Certificado de Profesionalidad de grado 3.",
+        "contact": {
+            "email": "mateusz.matlinski@gmail.com",
+            "phone": "611 123 124"
+        },
+        "photo": {
+            "src": "./res/me.jpg",
+            "alt": "mi foto"
+        }
+    },
+    "jobs": [
+        {
+            "job-title": "Desarrollador web",
+            "company-name": "High Design Virtual",
+            "location": "Alicante, España",
+            "desc": [
+                "Desarrollo de páginas web",
+                "Posicionamiento en buscadores",
+                "Campañas de comunicació",
+                "Retoque fotográfic",
+                "Diseño gráfico"
+            ],
+            "time": "2019"
+        },
+        {
+            "job-title": "Cajero y reponedor",
+            "company-name": "Sainsbury’s",
+            "location": "Londres, Reino Unido",
+            "desc": [
+                "Registro de pagos en caja",
+                "Reposición de mercancía",
+                "Colocación de artículos",
+                "Descuentos y control de pérdidas",
+                "Obtención de más de £1000 para diversas ONGs a través de promocione"
+
+            ],
+            "time": "2016-2018"
+        }
+    ],
+    "languages": {
+        "Español": "nivel alto",
+        "Inglés": "nivel alto, bilingüe",
+        "Polaco": "hablante nativo"
+    },
+    "studies": {
+        "title": "grado en bellas Artes",
+        "subtitle": "Especialización en Fotografía y Diseño",
+        "school": "Escuela de Arte y Diseño",
+        "location": "Lodz, Polonia",
+        "desc": [
+            "Tipografía",
+            "Diseño gráfico",
+            "Historia del arte",
+            "Fotografía",
+            "Cinematografía",
+            "Lengua inglesa"
+        ],
+        "time": "2010-2015"
+    },
+    "courses":[
+        {
+            "title": "Certificado de Profesionalidad de grado 3",
+            "subtitle": "Desarrollo de Aplicaciones con Tecnologías Web (IFCD0210) equivalente a FP grado superior.",
+            "school": "Federación de Empresarios de la Provincia de Alicante",
+            "location":"Alicante, España",
+            "desc": [
+                "HTML",
+                "CSS",
+                "SCSS",
+                "Bootstrap",
+                "JavaScript",
+                "jQuery",
+                "PHP",
+                "MySQL",
+                "Wordpress",
+                "Prestashop",
+                "GIT",
+                "Linux Terminal"
+            ],
+            "time": "2019"
+        }
+    ],
+    "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Premier",
+        "CorelDRAW",
+        "Microsoft Word",
+        "Microsoft Excel"
+    ],
+    "social": [
+        "Ganas de aprender",
+        "Trabajo en equipo",
+        "Disposición a ayudar",
+        "Honestidad",
+        "Creatividad",
+        "Confiabilidad",
+        "Don de comunicacióny negociació"
+    ]
+}
